@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login Page</title>
+</head>
+<body>
+    <h1>Login Page</h1>
+
+    <form method="post" action="login.php">
+        <div>
+            <label for="username">Username:</label>
+            <input type="text" name="username" id="username" value="<?php echo isset($username) ? htmlspecialchars($username) : ''; ?>">
+            <?php if (isset($errors['username'])): ?>
+            <p style="color: red;"><?php echo $errors['username']; ?></p>
+            <?php endif; ?>
+        </div>
+
+        <div>
+            <label for="password">Password:</label>
+            <input type="password" name="password" id="password" >
+            <?php if (isset($errors['password'])): ?>
+            <p style="color: red;"><?php echo $errors['password']; ?></p>
+            <?php endif; ?>
+        </div>
+
+        <div>
+            <input type="checkbox" name="remember" id="remember">
+            <label for="remember">Remember me</label>
+        </div>
+
+        <div>
+            <input type="submit" value="Login">
+        </div>
+    </form>
+</body>
+</html>
