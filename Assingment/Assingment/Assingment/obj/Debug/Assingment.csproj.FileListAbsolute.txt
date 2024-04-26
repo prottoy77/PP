@@ -1,0 +1,10 @@
+C:\Users\prott\OneDrive\Desktop\Assingment\Assingment\Assingment\bin\Debug\Assingment.exe.config
+C:\Users\prott\OneDrive\Desktop\Assingment\Assingment\Assingment\bin\Debug\Assingment.exe
+C:\Users\prott\OneDrive\Desktop\Assingment\Assingment\Assingment\bin\Debug\Assingment.pdb
+C:\Users\prott\OneDrive\Desktop\Assingment\Assingment\Assingment\obj\Debug\Assingment.csproj.AssemblyReference.cache
+C:\Users\prott\OneDrive\Desktop\Assingment\Assingment\Assingment\obj\Debug\Assingment.Form1.resources
+C:\Users\prott\OneDrive\Desktop\Assingment\Assingment\Assingment\obj\Debug\Assingment.Properties.Resources.resources
+C:\Users\prott\OneDrive\Desktop\Assingment\Assingment\Assingment\obj\Debug\Assingment.csproj.GenerateResource.cache
+C:\Users\prott\OneDrive\Desktop\Assingment\Assingment\Assingment\obj\Debug\Assingment.csproj.CoreCompileInputs.cache
+C:\Users\prott\OneDrive\Desktop\Assingment\Assingment\Assingment\obj\Debug\Assingment.exe
+C:\Users\prott\OneDrive\Desktop\Assingment\Assingment\Assingment\obj\Debug\Assingment.pdb
