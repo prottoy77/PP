@@ -1,0 +1,36 @@
+F:\C#\RMSystem\RMSystem\bin\Debug\RMSystem.exe.config
+F:\C#\RMSystem\RMSystem\bin\Debug\RMSystem.exe
+F:\C#\RMSystem\RMSystem\bin\Debug\RMSystem.pdb
+F:\C#\RMSystem\RMSystem\obj\Debug\RMSystem.csproj.AssemblyReference.cache
+F:\C#\RMSystem\RMSystem\obj\Debug\RMSystem.FormEmployee.resources
+F:\C#\RMSystem\RMSystem\obj\Debug\RMSystem.FormLogin.resources
+F:\C#\RMSystem\RMSystem\obj\Debug\RMSystem.FormOwner.resources
+F:\C#\RMSystem\RMSystem\obj\Debug\RMSystem.FormUserList.resources
+F:\C#\RMSystem\RMSystem\obj\Debug\RMSystem.Properties.Resources.resources
+F:\C#\RMSystem\RMSystem\obj\Debug\RMSystem.csproj.GenerateResource.cache
+F:\C#\RMSystem\RMSystem\obj\Debug\RMSystem.csproj.CoreCompileInputs.cache
+F:\C#\RMSystem\RMSystem\obj\Debug\RMSystem.exe
+F:\C#\RMSystem\RMSystem\obj\Debug\RMSystem.pdb
+F:\C#\RMSystem\RMSystem\obj\Debug\RMSystem.FormDrinks.resources
+F:\C#\RMSystem\RMSystem\obj\Debug\RMSystem.FormOrders.resources
+F:\C#\RMSystem\RMSystem\obj\Debug\RMSystem.FormFastFood.resources
+F:\C#\RMSystem\RMSystem\obj\Debug\RMSystem.FormOthers.resources
+F:\C#\RMSystem\RMSystem\obj\Debug\RMSystem.FormAddCart.resources
+F:\8th semester\C#\RMSystem\RMSystem\bin\Debug\RMSystem.exe.config
+F:\8th semester\C#\RMSystem\RMSystem\bin\Debug\RMSystem.exe
+F:\8th semester\C#\RMSystem\RMSystem\bin\Debug\RMSystem.pdb
+F:\8th semester\C#\RMSystem\RMSystem\obj\Debug\RMSystem.csproj.AssemblyReference.cache
+F:\8th semester\C#\RMSystem\RMSystem\obj\Debug\RMSystem.FormAddCart.resources
+F:\8th semester\C#\RMSystem\RMSystem\obj\Debug\RMSystem.FormDrinks.resources
+F:\8th semester\C#\RMSystem\RMSystem\obj\Debug\RMSystem.FormEmployee.resources
+F:\8th semester\C#\RMSystem\RMSystem\obj\Debug\RMSystem.FormFastFood.resources
+F:\8th semester\C#\RMSystem\RMSystem\obj\Debug\RMSystem.FormLogin.resources
+F:\8th semester\C#\RMSystem\RMSystem\obj\Debug\RMSystem.FormOrders.resources
+F:\8th semester\C#\RMSystem\RMSystem\obj\Debug\RMSystem.FormOthers.resources
+F:\8th semester\C#\RMSystem\RMSystem\obj\Debug\RMSystem.FormOwner.resources
+F:\8th semester\C#\RMSystem\RMSystem\obj\Debug\RMSystem.FormUserList.resources
+F:\8th semester\C#\RMSystem\RMSystem\obj\Debug\RMSystem.Properties.Resources.resources
+F:\8th semester\C#\RMSystem\RMSystem\obj\Debug\RMSystem.csproj.GenerateResource.cache
+F:\8th semester\C#\RMSystem\RMSystem\obj\Debug\RMSystem.csproj.CoreCompileInputs.cache
+F:\8th semester\C#\RMSystem\RMSystem\obj\Debug\RMSystem.exe
+F:\8th semester\C#\RMSystem\RMSystem\obj\Debug\RMSystem.pdb
